@@ -5,3 +5,4 @@ def add():
     return a+b
 
 print(add())
+print ("Functions")
