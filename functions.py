@@ -33,6 +33,7 @@ now=datetime.now()
 print(now)
 day1 =date.day()
 print(day1)
+print("Hello Evevry one")
 
 
 
